@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1590393360 source:c:\users\administrator\documents\phlox_2d_game_engine\src\core\engine.cpp
+	"Engine.h"
+	<iostream>
+
+1590391575 c:\users\administrator\documents\phlox_2d_game_engine\src\core\engine.h
+
