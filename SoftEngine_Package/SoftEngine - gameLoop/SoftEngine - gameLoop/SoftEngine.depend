@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1580571718 source:c:\users\fpouh\desktop\softengine\main.cpp
+	"Engine.h"
+
+1580574546 c:\users\fpouh\desktop\softengine\src\core\engine.h
+	"SDL.h"
+	"SDL_image.h"
+
+1580578907 source:c:\users\fpouh\desktop\softengine\src\core\engine.cpp
+	"Engine.h"
+	"TextureManager.h"
+	"Transform.h"
+
+1580577822 source:c:\users\fpouh\desktop\softengine\src\graphics\texturemanager.cpp
+	"TextureManager.h"
+	"Engine.h"
+
+1580576223 c:\users\fpouh\desktop\softengine\src\graphics\texturemanager.h
+	<string>
+	"SDL.h"
+	<map>
+
+1580578869 c:\users\fpouh\desktop\softengine\src\physics\transform.h
+	"Vector2D.h"
+
+1580578761 c:\users\fpouh\desktop\softengine\src\physics\vector2d.h
+	<iostream>
+
+1580571718 source:c:\users\fpouh\desktop\get\mainloop\softengine - gameloop\main.cpp
+	"Engine.h"
+
+1580639366 c:\users\fpouh\desktop\get\mainloop\softengine - gameloop\src\core\engine.h
+	"SDL.h"
+
+1580578907 source:c:\users\fpouh\desktop\get\mainloop\softengine - gameloop\src\core\engine.cpp
+	"Engine.h"
+	"TextureManager.h"
+	"Transform.h"
+
+1580571718 source:e:\softengine_package\softengine - gameloop\softengine - gameloop\main.cpp
+	"Engine.h"
+
+1580639366 e:\softengine_package\softengine - gameloop\softengine - gameloop\src\core\engine.h
+	"SDL.h"
+
+1580639348 source:e:\softengine_package\softengine - gameloop\softengine - gameloop\src\core\engine.cpp
+	"Engine.h"
+
